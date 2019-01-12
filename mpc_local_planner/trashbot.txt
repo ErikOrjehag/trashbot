@@ -1,0 +1,14 @@
+
+PSOPT results summary
+=====================
+
+Problem: 					Trashbot problem
+CPU time (seconds):				8.555100e-02
+NLP solver used: 				IPOPT
+Optimal (unscaled) cost function value: 	2.000000e+00
+Phase 1 endpoint cost function value:		4.858729e-15
+Phase 1 integrated part of the cost: 		2.000000e+00
+Phase 1 initial time:				0.000000e+00
+Phase 1 final time:				2.000000e+00
+Phase 1 maximum relative local error:		3.184028e-04
+NLP solver reports: 				The problem solved!

@@ -1,0 +1,14 @@
+
+PSOPT results summary
+=====================
+
+Problem: 					Forklift problem
+CPU time (seconds):				4.266710e-01
+NLP solver used: 				IPOPT
+Optimal (unscaled) cost function value: 	9.847569e-03
+Phase 1 endpoint cost function value:		9.847569e-03
+Phase 1 integrated part of the cost: 		1.358445e-16
+Phase 1 initial time:				0.000000e+00
+Phase 1 final time:				7.906339e-14
+Phase 1 maximum relative local error:		7.843717e+98
+NLP solver reports: 				The problem solved!
